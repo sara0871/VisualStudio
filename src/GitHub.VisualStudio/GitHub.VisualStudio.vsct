@@ -142,7 +142,7 @@
       </Button>
 
       <Button guid="guidGitHubToolbarCmdSet" id="githubCommand" type="Button">
-        <Icon guid="guidImages" id="logo_toolbar" />
+        <Icon guid="ImageCatalogGuid" id="OpenWebSite" />
         <CommandFlag>IconIsMoniker</CommandFlag>
         <CommandFlag>DefaultDisabled</CommandFlag>
         <Strings>
@@ -169,7 +169,7 @@
       </Button>
 
       <Button guid="guidContextMenuSet" id="openLinkCommand" type="Button">
-        <Icon guid="guidImages" id="link_external" />
+        <Icon guid="ImageCatalogGuid" id="OpenWebSite" />
         <CommandFlag>IconIsMoniker</CommandFlag>
         <CommandFlag>DefaultInvisible</CommandFlag>
         <CommandFlag>DynamicVisibility</CommandFlag>
